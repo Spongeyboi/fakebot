@@ -1,0 +1,19 @@
+{
+  "name": "fakebot",
+  "version": "1.0.0",
+  "description": "A bot that fools people by commands",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "test": "echo I work && exit(1)"
+  },
+  "keywords": [],
+  "author": "Spongey",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1"
+  }
+}
