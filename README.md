@@ -9,13 +9,13 @@ This bot fools people into thinking that the bot is talking instead of you.
 How to setup the bot:
 
 ### step 1:
-You need the following things to run this bot:
-[nodejs](https://nodejs.org) (To run the bot)
-[git](https://git-scm.com/) (for cloning this repository)
-[discord.js](https://discord.js.org) (The thing to run the bot with)
+You need the following things to run this bot:<br>
+[nodejs](https://nodejs.org) (To run the bot)<br>
+[git](https://git-scm.com/) (for cloning this repository)<br>
+[discord.js](https://discord.js.org) (The thing to run the bot with)<br>
 
 ### Step 2:
-Create a file called `.env` and add this to it.
+Create a file called `.env` and add this to it.<br>
 ```
 token=
 ownerid=
