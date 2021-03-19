@@ -2,7 +2,7 @@
 This bot fools people into thinking that the bot is talking instead of you.
 
 ### Commands
-`s` = Makes the bot say something
+`s` = Makes the bot say something<br>
 `help` = Does nothing
 
 ## Setup
